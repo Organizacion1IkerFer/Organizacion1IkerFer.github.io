@@ -25,12 +25,14 @@ Soy un estudiante de Desarrollo de Aplicaciones Web de Vila-real, anteriormente 
 - Java
 - Base de Datos
 - Liderazgo
+- Ayudar
 
 ## **Intereses** :broom:
 - Quidditch :soccer:
 - Saber más de Git :world_map:
 - Saber más de Java:dragon:
 - Disfrutar:fairy:
+- La Informática
 
 ---
 
